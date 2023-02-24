@@ -1,1 +1,1 @@
-# What-is-a-GDD
+# What is a GDD
