@@ -163,4 +163,10 @@ Before entering production, some project details must be defined:
 
 ## Bibliography:
 * ![Information Source: Procesos de desarrollo para videojuegos](http://dialnet.unirioja.es/servlet/articulo?codigo=3238114)
-* ![Resources: Warframe Wiki](https://warframe.fandom.com/wiki/WARFRAME_Wiki)
+* ![Warframe Wiki](https://warframe.fandom.com/wiki/WARFRAME_Wiki)
+
+## Resources + Tools:
+![Nuclino](https://www.nuclino.com)
+![Notion](https://www.notion.so)
+![Mindly](https://www.mindlyapp.com)
+![My presentation :D](https://docs.google.com/presentation/d/1DB0kDiGTaOPQzaPoM4JDuxyW3OWPPyDbSJuaKI3hF0w/edit?usp=sharing)
