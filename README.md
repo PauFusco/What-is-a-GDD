@@ -122,20 +122,36 @@ All the unique items that help the player to progress and realize the objective 
 ## SCRIPT
 In this section, all the dialogs of the game will be included. These can be varied or nonexistent depending on the nature of the game. This script must include names, dialogue, action, and transitions.
 
+
+*During the player's fight with the boss, the character delivers an extended monologue about his power.*
+<sub>Look at them, they come to this place when they know they are not pure. Tenno use the keys, but they are mere trespassers. Only I, Vor, know the true power of the Void. I was cut in half, destroyed, but through it's Janus Key, the Void called to me. It brought me here and here I was reborn. We cannot blame these creatures, they are being led by a false prophet, an impostor who knows not the secrets of the Void. Behold the Tenno, come to scavenge and desecrate this sacred realm. My brothers, did I not tell of this day? Did I not prophesize this moment? Now, I will stop them. Now I am changed, reborn through the energy of the Janus Key. Forever bound to the Void. Let it be known, if the Tenno want true salvation, they will lay down their arms, and wait for the baptism of my Janus key. It is time. I will teach these trespassers the redemptive power of my Janus key. They will learn it's simple truth. The Tenno are lost, and they will resist. But I, Vor, will cleanse this place of their impurity. </sub>
+
+![](USED/vorr.gif)
+
 ## ACHIEVEMENTS
 Description of the different achievements the player can get while progressing through the game. These can give medals, secret characters, or extra points.
+
+![](USED/achievement.gif)
 
 ## SECRET CODES
 Description of the secret codes the player can input, what they do, and how they are imputed.
 
+![](USED/konami code.gif)
+
 ## MUSIC AND SOUNDS
 The music and/or sounds that will be used in the game, name, and description, next to a reference number. If this is ambient music, the reference must start with ‘M’, next to the reference number. If the effect is a sound, it will start with ‘S’.
+
+![](USED/clem.gif)
 
 ## CONCEPT ART
 All the images that show a possible level, character, item, etc. Will be included in this section and must be numbered and with a title.
 
+![*Xaku* concept page](https://warframe.fandom.com/wiki/Xaku#Media)
+
 ## TEAM MEMBERS
 Information about the people involved in this project, with their names, roles, and media through which you can contact them.
+
+![Warframe Dev Team](https://warframe.fandom.com/wiki/Development_Team)
 
 ## PRODUCTION DETAILS
 Before entering production, some project details must be defined:
@@ -143,6 +159,7 @@ Before entering production, some project details must be defined:
 * Termination date: When does the production stage end?
 * Budget: An approximation of the budget of the game.
 
+![](USED/kromer.gif)
 
 ## Bibliography:
 * ![Information Source: Procesos de desarrollo para videojuegos](http://dialnet.unirioja.es/servlet/articulo?codigo=3238114)
