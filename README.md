@@ -77,8 +77,6 @@ Games normally are divided into sequential levels or maps, which have to accompl
 
 Sequentially number or make a flux diagram of the events or level the player must go through to progress through the game. Some games have different game modes. These will need specific lists or diagrams.
 
-
-
 ## CHARACTERS
 
 The main and secondary characters that will appear in the game. This section can be omitted if the game has no characters.
@@ -93,6 +91,8 @@ lore of said character, their life or biography, detailing also the social relat
 * Items: Their items.
 * NPC: If they are an NPC, describe their purpose for the game and/or player.
 
+![](/USED/pinky.gif)
+
 ## ENEMIES
 
 The enemies that stay in the way of the player. Machines, other characters, monsters, etc.
@@ -104,8 +104,12 @@ The enemies that stay in the way of the player. Machines, other characters, mons
 * Weapons: List the weapons of the enemy.
 * Items: List the items of the enemy.
 
+![](/USED/bolas.gif)
+
 ## ABILITIES
 Characters and enemies can have different abilities out of their common actions, which must be described in this section.
+
+
 
 ## WEAPONS
 In this section, the weapons that appear in the game will be described.
