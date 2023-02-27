@@ -115,3 +115,8 @@ Before entering production, some project details must be defined:
 * Start date: When does the production stage start?
 * Termination date: When does the production stage end?
 * Budget: An approximation of the budget of the game.
+
+
+## Bibliography:
+* ![Information Source: Procesos de desarrollo para videojuegos](http://dialnet.unirioja.es/servlet/articulo?codigo=3238114)
+* ![Resources: Warframe Wiki](https://warframe.fandom.com/wiki/WARFRAME_Wiki)
