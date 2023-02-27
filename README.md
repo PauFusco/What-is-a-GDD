@@ -6,7 +6,7 @@ Represents the progress of the development.
 Not the game itself, but a representation of what it will be.
 It can change through time.
 
-![](/Documents/Used images and gifs/yay.gif)
+![](Used_Images_and_Gifs/yay.gif)
 
 ## VERSION HISTORY
 
@@ -16,7 +16,7 @@ This exists to keep track of all the different versions of the GDD and the chang
 
 It has to establish the vision and focus of the project that will guide it until the end. This summary has to mention the most interesting, advantages and the originality behind the game. Why would people play this game? The structure is similar to an essay, an introduction has to cover all the essential aspects while the subsequent paragraphs detail what we previously mentioned. Ultimately, a conclusion must leave the reader with the hype and expectation to play the game.
 
-![](/Documents/Used images and gifs/enjoy.gif)
+![](Used_Images_and_Gifs/enjoy.gif)
 
 ## GAME MECHANICS
 
@@ -27,7 +27,7 @@ This section mentions what players can do and how they do it. Describe what acti
 * Score: Explain how the game will keep track of the players’ progress. Include if the game will have some type of leaderboard (online or local).
 * Save/Load: Describe how the player will save their progress and objectives and how they will continue to progress pending ones. Similarly, describing what storage methods will be used or if the game will have a password system.
 
-![](/Documents/Used images and gifs/smurfin.gif)
+![](Used_Images_and_Gifs/smurfin.gif)
 
 ## GAME STATES
 
@@ -40,7 +40,7 @@ Interfaces give interactivity between the player and the game, in this section, 
 * Description of the screen: What is the use of this interface?
 * Game states: Make a list of all the game states that invoke a particular screen, also the states that can be invoked from it. A concept of how the screen will be.
 
-![](/Documents/Used images and gifs/flux.gif)
+![](Used_Images_and_Gifs/flux.gif)
 
 ## LEVELS
 
@@ -71,7 +71,7 @@ Games normally are divided into sequential levels or maps, which have to accompl
 * Music & SFX: Level Music, Machine sounds
 * Reference to that music and SFX
 
-![](/Documents/Used images and gifs/ekselen.gif)
+![](Used_Images_and_Gifs/ekselen.gif)
 
 ## PROGRESSION
 
@@ -91,7 +91,7 @@ lore of said character, their life or biography, detailing also the social relat
 * Items: Their items.
 * NPC: If they are an NPC, describe their purpose for the game and/or player.
 
-![](/Documents/Used images and gifs/pinky.gif)
+![](Used_Images_and_Gifs/pinky.gif)
 
 ## ENEMIES
 
@@ -104,12 +104,12 @@ The enemies that stay in the way of the player. Machines, other characters, mons
 * Weapons: List the weapons of the enemy.
 * Items: List the items of the enemy.
 
-![](/USED/bolas.gif)
+![](Used_Images_and_Gifs/bolas.gif)
 
 ## ABILITIES
 Characters and enemies can have different abilities out of their common actions, which must be described in this section.
 
-![](USED/imagen_2023-02-27_013817230.png)
+![](Used_Images_and_Gifs/imagen_2023-02-27_013817230.png)
 
 ## WEAPONS
 In this section, the weapons that appear in the game will be described.
@@ -126,22 +126,22 @@ In this section, all the dialogs of the game will be included. These can be vari
 *During the player's fight with the boss, the character delivers an extended monologue about his power.*
 <sub>Look at them, they come to this place when they know they are not pure. Tenno use the keys, but they are mere trespassers. Only I, Vor, know the true power of the Void. I was cut in half, destroyed, but through it's Janus Key, the Void called to me. It brought me here and here I was reborn. We cannot blame these creatures, they are being led by a false prophet, an impostor who knows not the secrets of the Void. Behold the Tenno, come to scavenge and desecrate this sacred realm. My brothers, did I not tell of this day? Did I not prophesize this moment? Now, I will stop them. Now I am changed, reborn through the energy of the Janus Key. Forever bound to the Void. Let it be known, if the Tenno want true salvation, they will lay down their arms, and wait for the baptism of my Janus key. It is time. I will teach these trespassers the redemptive power of my Janus key. They will learn it's simple truth. The Tenno are lost, and they will resist. But I, Vor, will cleanse this place of their impurity. </sub>
 
-![](/Documents/Used images and gifs/vorr.gif)
+![](Used_Images_and_Gifs/vorr.gif)
 
 ## ACHIEVEMENTS
 Description of the different achievements the player can get while progressing through the game. These can give medals, secret characters, or extra points.
 
-![](/Documents/Used images and gifs/achievement.gif)
+![](Used_Images_and_Gifs/achievement.gif)
 
 ## SECRET CODES
 Description of the secret codes the player can input, what they do, and how they are imputed.
 
-![](/Documents/Used images and gifs/konami code.gif)
+![](Used_Images_and_Gifs/konami code.gif)
 
 ## MUSIC AND SOUNDS
 The music and/or sounds that will be used in the game, name, and description, next to a reference number. If this is ambient music, the reference must start with ‘M’, next to the reference number. If the effect is a sound, it will start with ‘S’.
 
-![](/Documents/Used images and gifs/clem.gif)
+![](Used_Images_and_Gifs/clem.gif)
 
 ## CONCEPT ART
 All the images that show a possible level, character, item, etc. Will be included in this section and must be numbered and with a title.
@@ -159,7 +159,7 @@ Before entering production, some project details must be defined:
 * Termination date: When does the production stage end?
 * Budget: An approximation of the budget of the game.
 
-![](/Documents/Used images and gifs/kromer.gif)
+![](Used_Images_and_Gifs/kromer.gif)
 
 ## Bibliography:
 * ![Information Source: Procesos de desarrollo para videojuegos](http://dialnet.unirioja.es/servlet/articulo?codigo=3238114)
