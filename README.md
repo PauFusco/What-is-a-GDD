@@ -166,10 +166,10 @@ Before entering production, some project details must be defined:
 * ![Warframe Wiki](https://warframe.fandom.com/wiki/WARFRAME_Wiki)
 
 ## Resources + Tools:
-![Nuclino](https://www.nuclino.com)
+[Nuclino](https://www.nuclino.com)
 
-![Notion](https://www.notion.so)
+[Notion](https://www.notion.so)
 
-![Mindly](https://www.mindlyapp.com)
+[Mindly](https://www.mindlyapp.com)
 
-![My presentation :D](https://docs.google.com/presentation/d/1DB0kDiGTaOPQzaPoM4JDuxyW3OWPPyDbSJuaKI3hF0w/edit?usp=sharing)
+[My presentation :D](https://docs.google.com/presentation/d/1DB0kDiGTaOPQzaPoM4JDuxyW3OWPPyDbSJuaKI3hF0w/edit?usp=sharing)
