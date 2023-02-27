@@ -58,7 +58,7 @@ Games normally are divided into sequential levels or maps, which have to accompl
 
 ### Level example:
 
-![Level Video Link](https://www.youtube.com/watch?v=eeDWqtjzHsE)
+[Level Video Link](https://www.youtube.com/watch?v=eeDWqtjzHsE)
 
 * Level Title: HYDRA
 * When and How will the Player encounter this Level: PLUTO mission, Star Chart Progression
@@ -71,7 +71,7 @@ Games normally are divided into sequential levels or maps, which have to accompl
 * Music & SFX: Level Music, Machine sounds
 * Reference to that music and SFX
 
-![](Used_Images_and_Gifs/ekselen.gif)
+[](Used_Images_and_Gifs/ekselen.gif)
 
 ## PROGRESSION
 
@@ -114,7 +114,7 @@ Characters and enemies can have different abilities out of their common actions,
 ## WEAPONS
 In this section, the weapons that appear in the game will be described.
 
-![Wiki Weapons link](https://warframe.fandom.com/wiki/Weapons#List)
+[Wiki Weapons link](https://warframe.fandom.com/wiki/Weapons#List)
 
 ## ITEMS
 All the unique items that help the player to progress and realize the objective will be mentioned here.
@@ -146,12 +146,12 @@ The music and/or sounds that will be used in the game, name, and description, ne
 ## CONCEPT ART
 All the images that show a possible level, character, item, etc. Will be included in this section and must be numbered and with a title.
 
-![*Xaku* concept page](https://warframe.fandom.com/wiki/Xaku#Media)
+[*Xaku* concept page](https://warframe.fandom.com/wiki/Xaku#Media)
 
 ## TEAM MEMBERS
 Information about the people involved in this project, with their names, roles, and media through which you can contact them.
 
-![Warframe Dev Team](https://warframe.fandom.com/wiki/Development_Team)
+[Warframe Dev Team](https://warframe.fandom.com/wiki/Development_Team)
 
 ## PRODUCTION DETAILS
 Before entering production, some project details must be defined:
@@ -162,14 +162,14 @@ Before entering production, some project details must be defined:
 ![](Used_Images_and_Gifs/kromer.gif)
 
 ## Bibliography:
-* ![Information Source: Procesos de desarrollo para videojuegos](http://dialnet.unirioja.es/servlet/articulo?codigo=3238114)
-* ![Warframe Wiki](https://warframe.fandom.com/wiki/WARFRAME_Wiki)
+* [Information Source: Procesos de desarrollo para videojuegos](http://dialnet.unirioja.es/servlet/articulo?codigo=3238114)
+* [Warframe Wiki](https://warframe.fandom.com/wiki/WARFRAME_Wiki)
 
 ## Resources + Tools:
-![Nuclino](https://www.nuclino.com)
+[Nuclino](https://www.nuclino.com)
 
-![Notion](https://www.notion.so)
+[Notion](https://www.notion.so)
 
-![Mindly](https://www.mindlyapp.com)
+[Mindly](https://www.mindlyapp.com)
 
-![My presentation :D](https://docs.google.com/presentation/d/1DB0kDiGTaOPQzaPoM4JDuxyW3OWPPyDbSJuaKI3hF0w/edit?usp=sharing)
+[My presentation :D](https://docs.google.com/presentation/d/1DB0kDiGTaOPQzaPoM4JDuxyW3OWPPyDbSJuaKI3hF0w/edit?usp=sharing)
