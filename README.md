@@ -40,6 +40,8 @@ Interfaces give interactivity between the player and the game, in this section, 
 * Description of the screen: What is the use of this interface?
 * Game states: Make a list of all the game states that invoke a particular screen, also the states that can be invoked from it. A concept of how the screen will be.
 
+![](/USED/flux.gif)
+
 ## LEVELS
 
 Games normally are divided into sequential levels or maps, which have to accomplish multiple objectives to be able to progress through the game. There are games in which the thing that changes between levels is the difficulty, not the objectives. This will also be described in this section.
@@ -53,6 +55,23 @@ Games normally are divided into sequential levels or maps, which have to accompl
 * Characters: The characters that appear in this, similarly, this camp can be omitted if there aren’t any.
 * Music and SFX: Describe the music and the ambient sound effects said level has.
 * Reference to BGM y SFX: Write all the references of music and ambient SFX which are described in the Music and Sound section.
+
+### Level example:
+
+![Level Video Link](https://www.youtube.com/watch?v=eeDWqtjzHsE)
+
+* Level Title: HYDRA
+* When and How will the Player encounter this Level: PLUTO mission, Star Chart Progression
+* Description of the Level: Corpus Capture-type mission
+* Objectives of the Level: Capture the target and extract
+* What happens When the Player reaches those Objectives: Finish the mission and get rewards
+* Enemies found in the Level: Juno Elite Crewman, Nullifier Target, Juno Glaxion Moa
+* Items found in the Level: Rubedo, Mods, Credits
+* Characters: Player
+* Music & SFX (ambient): Level Music, Machine sounds
+* Reference to that music and SFX
+
+
 
 ## PROGRESSION
 
