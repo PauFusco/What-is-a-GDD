@@ -1,4 +1,4 @@
-# GDD Shenanigans
+# GDD Shenanigans :bowtie:
 ## WHAT IS A GDD
 
 Documentation of a game.
