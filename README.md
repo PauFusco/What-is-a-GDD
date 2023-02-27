@@ -109,10 +109,12 @@ The enemies that stay in the way of the player. Machines, other characters, mons
 ## ABILITIES
 Characters and enemies can have different abilities out of their common actions, which must be described in this section.
 
-
+![](USED/imagen_2023-02-27_013817230.png)
 
 ## WEAPONS
 In this section, the weapons that appear in the game will be described.
+
+![Wiki Weapons link](https://warframe.fandom.com/wiki/Weapons#List)
 
 ## ITEMS
 All the unique items that help the player to progress and realize the objective will be mentioned here.
