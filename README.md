@@ -6,6 +6,8 @@ Represents the progress of the development.
 Not the game itself, but a representation of what it will be.
 It can change through time.
 
+![](/USED/yay.gif)
+
 ## VERSION HISTORY
 
 This exists to keep track of all the different versions of the GDD and the changes it was subject to. The number of the version depends on the changes made to it: if the changes are more radical, the number of changes is bigger and in the inverse. The version history is not included in the document submitted for revision to the developers because it includes dates and could be judged.
@@ -13,6 +15,8 @@ This exists to keep track of all the different versions of the GDD and the chang
 ## GENERAL VISION OF THE GAME
 
 It has to establish the vision and focus of the project that will guide it until the end. This summary has to mention the most interesting, advantages and the originality behind the game. Why would people play this game? The structure is similar to an essay, an introduction has to cover all the essential aspects while the subsequent paragraphs detail what we previously mentioned. Ultimately, a conclusion must leave the reader with the hype and expectation to play the game.
+
+![](/USED/enjoy.gif)
 
 ## GAME MECHANICS
 
@@ -22,6 +26,8 @@ This section mentions what players can do and how they do it. Describe what acti
 * Controls: Describe the buttons or keys that will be used to interact with the game and realize the actions described in Game Mechanics.
 * Score: Explain how the game will keep track of the players’ progress. Include if the game will have some type of leaderboard (online or local).
 * Save/Load: Describe how the player will save their progress and objectives and how they will continue to progress pending ones. Similarly, describing what storage methods will be used or if the game will have a password system.
+
+![](/USED/smurfin.gif)
 
 ## GAME STATES
 
