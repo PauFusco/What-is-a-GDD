@@ -68,14 +68,16 @@ Games normally are divided into sequential levels or maps, which have to accompl
 * Enemies found in the Level: Juno Elite Crewman, Nullifier Target, Juno Glaxion Moa
 * Items found in the Level: Rubedo, Mods, Credits
 * Characters: Player
-* Music & SFX (ambient): Level Music, Machine sounds
+* Music & SFX: Level Music, Machine sounds
 * Reference to that music and SFX
 
-
+![](/USED/ekselen.gif)
 
 ## PROGRESSION
 
 Sequentially number or make a flux diagram of the events or level the player must go through to progress through the game. Some games have different game modes. These will need specific lists or diagrams.
+
+
 
 ## CHARACTERS
 
